@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+/* Dokument CSS */
+
+
+/*header*/
+header {
+    margin: 0 auto;
+    background-color: #000;
+
+
+}
+#contener {
+    height: 300px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: #fff;
+    font-family: 'Caveat', cursive;
+    font-size:78px;
+}
+
+h1 p {
+    padding-top: 100px;
+    text-align: center;
+}
+.menu {
+
+    width: 100%;
+}
+nav ul {
+    padding-top: 50px;
+	text-align: center;
+	width:100;
+    margin-left: 80px;
+
+}
+nav ul li {
+	display:inline;
+    margin-right: 80px;
+}
+li {
+    font-family: 'Caveat', sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+ul a {
+    color: inherit;
+}
+li:hover {
+	color: #6a1212;
+}
+/*section*/
+#cover {
+    width: 1160px;
+    margin:0 auto;
+    padding-left: 42px;
+}
+.column {
+    margin: 0 auto;
+    width: 30%;
+    padding: 1%;
+    float: left;
+}
+.foto {
+    padding-bottom: 4%;
+    width: 100%;
+
+}
+
+/*footer*/
+footer{
+    width: 1060px;
+
+    margin:0 auto;
+    clear: both;
+}
+.stopka {
+    padding-top: 20px;
+    border-top: 2px solid dimgrey;
+    text-align: center;
+}
+footer p{
+    font-family: Verdana;
+    font-size: 12px;
+    color: dimgrey;
+}
+
+
+
